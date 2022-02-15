@@ -12,27 +12,6 @@
 .text-center{
     text-align: center;
 }
-.clearfix::after{
-    content: '';
-    clear: both;
-    display: block;
-}
-.left{
-    float: left;
-}
-.right{
-    float: right;
-}
-img {
-    max-width: 100%;
-}
-a{
-    text-decoration: none;
-}
-.fixed-width{
-    max-width: 1300px;
-    margin: 0 auto;
-}
 
 
 
